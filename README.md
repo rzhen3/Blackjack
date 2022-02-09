@@ -5,4 +5,5 @@
 Known issues:
 - leave not working (just close window)
 - button flickering
+- activities are buggy
 - low-res images
